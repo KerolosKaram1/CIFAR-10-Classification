@@ -13,7 +13,6 @@ This repository contains code for a CIFAR-10 image classification model implemen
 - [Model Training](#model-training)
 - [Model Evaluation](#model-evaluation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Getting Started
 To get started with this project, make sure you have the required libraries installed. You can install them using `pip`:
@@ -33,14 +32,3 @@ The accuracy of the models is evaluated on both the training and test datasets u
 ## Usage
 You can use this model to classify images from the CIFAR-10 dataset or other similar datasets. To make predictions, follow the code provided in the repository. The model predicts the class of an image and returns the class label and name.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to modify and improve upon this model, and don't forget to credit the original authors if you decide to use or share this work.
-
-For any questions or issues, please open an [issue](https://github.com/your-username/your-repo-name/issues) on this GitHub repository.
-
-Happy classifying!
-```
-
-Make sure to replace "your-username" and "your-repo-name" with your GitHub username and repository name. You can add more details, such as installation instructions or examples of how to use the model, as needed.
